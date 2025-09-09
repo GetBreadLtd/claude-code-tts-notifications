@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+temp/
+.temp/
+
+# Local environment
+.env
+.env.local
+.env.production
+
+# Don't ignore the pre-generated audio cache
+!tts_cache/
+!tts_cache/*.mp3
+
+# Protect user's existing README when copying to projects
+# Users should only copy .claude/ and tts_cache/ folders
+README.md
