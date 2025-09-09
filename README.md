@@ -24,7 +24,7 @@ TTS_Notifications/
 │   ├── notification*.mp3        # 3 notification variations (no names)
 │   ├── work_complete*.mp3       # 5 completion variations  
 │   └── subagent_*.mp3           # 3 subagent variations (no names)
-└── SETUP.md                     # This file
+└── README.md                    # This file
 ```
 
 ## System Requirements
